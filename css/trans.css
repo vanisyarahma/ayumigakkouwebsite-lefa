@@ -1,0 +1,67 @@
+body {
+
+}
+
+.bubble {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 500px;
+  height: 170px;
+  background-color: lightgrey;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.bubble h2 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h3 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+.hehe {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 1300px;
+  height: 340px;
+  background-color: lightgrey;
+  margin: 20px;
+  border-radius: 20px;
+}
+  p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    margin-left: 20px;
+  }
